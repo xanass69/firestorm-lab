@@ -55,24 +55,10 @@ L'application Android \*\*FireStorm\*\* contient une fonction de génération de
 \### Installation rapide
 
 
-
-```bash
-
-\# Frida
-
-pip install frida-tools
+<img width="866" height="377" alt="performfunction" src="https://github.com/user-attachments/assets/c6f4019b-c7f3-4b30-b170-dd265bc671e2" />
+<img width="478" height="245" alt="pwnsec" src="https://github.com/user-attachments/assets/1fb6198b-f23f-400e-a8a7-1f23107e118b" />
+<img width="845" height="474" alt="getflag" src="https://github.com/user-attachments/assets/5cb83073-b657-4552-afbc-8c366a9c78b2" />
+<img width="177" height="367" alt="firestormm" src="https://github.com/user-attachments/assets/71aa3c02-58bf-463d-86ae-c7a6e3c441d2" />
 
 
-
-\# Pyrebase pour Firebase
-
-pip install pyrebase4
-
-
-
-\# Jadx (manuel)
-
-\# Télécharger jadx-gui-1.5.5-with-jre-win.zip depuis:
-
-\# https://github.com/skylot/jadx/releases
 
